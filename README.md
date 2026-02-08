@@ -108,10 +108,6 @@ From the analysis, several actionable insights emerged, indicating substantial p
 * Partnerships & Advocacy
 * Digital Marketing Support
 
-Data Source
-
-[Download Here](https//:"C:\Users\HP\Documents\my-final-ICT-ACCEPTANCE-IN-SMEs-2.xlsx")
-
 ### Future Work
 SMEs are ready to adopt ICT to drive growth but face challenges like skill gaps, high costs, and limited digital support. Targeted training, affordable solutions, and supportive policies can enhance their efficiency, competitiveness, and reach, with a focus on leveraging social media for advertising. SMEs see the value of ICT, but competing priorities affect their investments. Tailoring ICT strategies to their needs and offering flexible, affordable options can support gradual adoption and improve efficiency and growth.
 
