@@ -67,9 +67,11 @@ Analysis include the following dashboard
 -	📉 Impact and Potential of ICT
 
 ### Power BI Dashboard
-<img width="1185" height="665" alt="Screenshot 2024-11-03 115452" src="https://github.com/user-attachments/assets/ef185aba-907b-47d6-afa1-9306e1bd82f9" />
+<img width="1179" height="658" alt="Screenshot 2024-11-03 182923" src="https://github.com/user-attachments/assets/1f00108b-5d16-42da-88ce-97f865166199" />
+
 
 <img width="1180" height="660" alt="Screenshot 2024-11-03 120600" src="https://github.com/user-attachments/assets/37a53ae2-0183-47b4-94a8-28255c6010a3" />
+
 
 <img width="1175" height="660" alt="Screenshot 2024-11-03 120617" src="https://github.com/user-attachments/assets/86b2657d-2344-41ce-8bb4-ea82c8d85b56" />
 
